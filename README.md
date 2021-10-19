@@ -6,8 +6,8 @@
 - :computer: IT Technician by IFAL (Federal Institute of Education, Science and Technology of Alagoas)
 - :mortar_board: Computer Science undergraduate at UFAL (Federal University of Alagoas)
 - :pencil: Currently doing academic/scientific research on Informatics in Education
-- :rocket: Also mproving skills in full stack web development
-- :mailbox: Reach me here: jvsl@ic.ufal.br
+- :rocket: Also improving skills in full stack web development
+- :mailbox: Reach me here: jvfsl@ic.ufal.br
 
 ## Languages, Tools & Tech
 
