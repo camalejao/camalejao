@@ -62,3 +62,21 @@ Web App to download clips from [Twitch](https://twitch.tv) and videos from Youtu
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 A calculator to help UFAL students with their academic lives. Made with basic HTML and Javascript, but offers some funcionalites such as calculating final grades and how many days you can "skip class" without problem. It got some [notoriety](https://ufal.br/estudante/noticias/2020/3/estudantes-criam-calculadora-que-otimiza-rotina-universitaria) around the academic community, and is available online [here](https://calculadoraic.herokuapp.com).
+
+### NLW Heat
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+Application developed during the Next Level Week, an event by [Rocketseat](https://www.rocketseat.com.br). It uses GitHub's OAuth to authenticate an user, who can send messages that are updated in real time (with sockets), always showing the last three messages. Try it online [here](https://heat-nlw.herokuapp.com), or check the [source code](https://github.com/camalejao/nlw_heat).
+
+### BOTjão
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+A Discord bot that plays music from youtube/spotify and sound effects from a soundboard, and also has some funny commands that consume public APIs/Reddit to show images and memes. Check the [source code](https://github.com/camalejao/BOTjao) and add it to your server clicking [here](https://discord.com/oauth2/authorize?client_id=480515624838103050&scope=bot&permissions=8).
+
